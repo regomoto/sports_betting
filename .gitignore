@@ -158,3 +158,18 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+creds/spreadsheet-testing-366209-8ab527d566aa.json
+.DS_Store
+client_secrets.json
+credentials.json
+*.csv
+week_6_test.ipynb
+week_7_test.ipynb
+week_8_test.ipynb
+week_9_test.ipynb
+odds_api_test.ipynb
+cfbd_api_test.ipynb
+equations_test.ipynb
+google_api_test.ipynb
+resources.ipynb
+config.py
